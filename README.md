@@ -1,6 +1,8 @@
 # Hi there 👋
+<hr>
 <br>
-✨I'm Darshiel Jain, a curious and enthusiastic student at IIT BHU✨
+<h2>✨I'm Darshiel Jain, a curious and enthusiastic student at IIT BHU✨</h2>
+<hr>
 <br>
 I’m currently exploring all aspects of technology at one of India"s best technological institutes.
 <br>
