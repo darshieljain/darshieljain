@@ -1,5 +1,6 @@
 # Hi there 👋
-<h2>✨I'm Darshiel Jain, a curious and enthusiastic student at IIT BHU✨</h2>
-I’m currently exploring all aspects of technology at one of India"s best technological institutes.
+<h2>✨I'm Darshiel Jain, a passionate builder and problem-solver at IIT BHU✨</h2>
 <br>
-It'll be my pleasure to connect if our thought and works Resonates!
+Exploring **AI ML**, **Web Dev**, with a curious eye on **Quant**.
+<br>
+Always learning, always building. let's connect if our work resonates🤝!
